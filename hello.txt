@@ -14,4 +14,4 @@ hello duola! hello git!
 hello duola! hello git!
 hello duola! hello git!
 hello duola! hello git!master
-hello duola! hello git!
+hello duola! hello git! hot-fix
